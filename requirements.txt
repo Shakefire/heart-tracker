@@ -1,0 +1,9 @@
+numpy
+pandas
+lime
+streamlit
+scikit-learn
+plotly
+fpdf
+imbalanced-learn
+tensorflow
